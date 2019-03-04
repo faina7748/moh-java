@@ -10,6 +10,8 @@ STEP FOR JAVA BEGINNER
 
 Git Command
 -----------
+git clone 
+git status
 git add *
 git commit -m "first commit"
 git push
