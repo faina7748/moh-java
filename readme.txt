@@ -15,3 +15,26 @@ git status
 git add *
 git commit -m "first commit"
 git push
+
+OOP
+---
+Kuih Bahulu
+  acuan => class
+  kuih  => obj
+
+Java Primitive Data Type
+------------------------
+byte(0), short(0), int(0), long(0L) -> takde perpuluhan
+float(0.0f)
+double(0.0d)
+
+Java Bukan Primitive Data Type
+------------------------------
+String
+
+Method
+------
+- method overloading
+  -> method nama sama, param x sama
+- method overriding
+  -> replace method
