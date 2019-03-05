@@ -17,7 +17,12 @@ public class Book {
     public static void main(String[] args) {
         Book b1 = new Book();
         Book b2 = new Book();
-        Book.cetak();
+        b1.info(); // x boleh panggil info() sahaja;
+        Book.cetak();        
+    }
+    
+    public void info(){
+        
     }
     
     //own by class Buku bukan obj buku
