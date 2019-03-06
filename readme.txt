@@ -22,15 +22,18 @@ Kuih Bahulu
   acuan => class
   kuih  => obj
 
-Java Primitive Data Type
+Java Primitive Data Type (8)
 ------------------------
 byte(0), short(0), int(0), long(0L) -> takde perpuluhan
 float(0.0f)
 double(0.0d)
+char
+boolean
 
-Java Bukan Primitive Data Type
+Java Non Primitive Data Type
 ------------------------------
 String
+obj i.e int Book.jum;
 
 Method
 ------
@@ -38,3 +41,8 @@ Method
   -> method nama sama, param x sama
 - method overriding
   -> replace method
+  -> final method
+  -> final var (constant), nama variable biasanya huruf BESAR i.e float PI = 1.2;
+- static
+  - own by class, shared by all obj
+
