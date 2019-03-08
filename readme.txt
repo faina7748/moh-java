@@ -46,3 +46,25 @@ Method
 - static
   - own by class, shared by all obj
 
+Servlet
+-------
+tomcat
+manually 
+WEB-INF
+- classes/HelloWorld.class
+- lib
+- mysql.jar
+
+JSP
+---
+- scriplet <%... %>
+- EL ${}
+- JSP declaration <%!...%>
+- <%@page include file="">
+- <$= print%>
+
+MVC
+---
+- Model = POJO
+- Controller = Servlet
+- View = JSP
